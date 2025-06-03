@@ -66,8 +66,12 @@
 ###
 
 <p align="center">
- <img width="900" src="snake/github-snake.svg" alt="snake"/>
+  <img width="900"
+       src="https://raw.githubusercontent.com/vkalinovski/Portfolio/main/snake/github-snake.svg"
+       alt="snake"/>
 </p>
+
+
 
 ###
 
