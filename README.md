@@ -68,7 +68,7 @@
 ###
 
 ---
-# My Projects 🔥
+# My Projects 🤓
 
 | Project | Tasks | Tools |
 |--------|--------|-------------|
