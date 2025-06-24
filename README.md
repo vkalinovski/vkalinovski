@@ -21,7 +21,7 @@
 
 ## 💼 Experience
 
-### 🎲 iGaming — Traffic Analyst (07/2024 — 12/2024)
+### 🎲 iGaming — Traffic Analyst (02/2024 — 12/2024)
 - **↗ Fraud detection and traffic verification**: developed Python scripts to monitor anomalies and send alerts for suspicious activity, reducing fraudulent traffic by 30%.  
 - **📉 Partner payout recalculation**: organized the payout recalculation process to ensure accuracy and transparency of rewards, increasing payment accuracy from 85% to 100%.  
 - **📊 Power BI dashboards**: set up interactive reports on key metrics, speeding up decision-making by 40%.  
