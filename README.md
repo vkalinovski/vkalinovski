@@ -26,10 +26,21 @@
 - **📉 Partner payout recalculation**: organized the payout recalculation process to ensure accuracy and transparency of rewards, increasing payment accuracy from 85% to 100%.  
 - **📊 Power BI dashboards**: set up interactive reports on key metrics, speeding up decision-making by 40%.  
 
-### 🏦 T-Bank — Business Analyst (01/2025 — 04/2025)
-- **💡 Agent market research**: developed a financial model for the offer and worked out the legal structure of interaction, resulting in a projected revenue increase of \$200K per quarter.  
-- **🔗 Partner network management**: created and maintained a database of potential partners, organized data transfer and processing through ETL scripts in Python and SQL, reducing data processing time by 50%.  
-- **🎯 Marketing campaigns**: adapted and launched promotions specifically for the agent network, ensuring a stable influx of clients and increasing new client acquisition by 25%.  
+### 🏦 T-Bank — Business Analyst (01/2025 — Present)
+
+#### 🤝 Agent Channel Team, T-Investments (01/2025 — 04/2025)
+- 💡 **Agent market research**: Developed a financial model for the agent-channel offer and designed the legal interaction structure, projecting a \$200 K revenue uplift per quarter.  
+- 🔗 **Partner network management**: Built and maintained a database of potential partners; automated data ingestion and ETL using Python and SQL, cutting processing time by 50 %.  
+- 🎯 **Marketing campaigns**: Tailored and launched promotions for the agent network, stabilizing lead volume and boosting new-client acquisition by 25 %.  
+
+#### 🚗 Origination Team, Online Auto Loans (04/2025 — Present)
+- 🚀 **Project launch & stakeholder management**: Defined “Done” criteria, set milestones, and coordinated 3 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.  
+- 🗺️ **End-to-end process design**: Mapped complex customer journeys across four core systems; created detailed CJM and funnel blueprints that revealed key drop-off points.  
+- 📈 **Strategic planning**: Crafted the six-month roadmap for personalization, cross-sell, and engagement campaigns—aligning product initiatives with projected profitability targets.  
+- 🛠️ **Technical liaison & requirements**: Translated technical constraints into business language; authored functional/non-functional specs and drafted design/SA/dev tasks to streamline implementation.  
+- ⚠️ **Risk & corner-case analysis**: Identified process bottlenecks, corner cases, and regulatory risks; formulated mitigation strategies and integrated them into end-to-end flows.  
+- 📊 **Performance measurement**: Established KPIs, modeled potential uplifts for enhancements, and delivered data-driven recommendations to senior leadership.  
+
 
 
 ---
