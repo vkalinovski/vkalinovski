@@ -34,12 +34,17 @@
 - 🎯 **Marketing campaigns**: Tailored and launched promotions for the agent network, stabilizing lead volume and boosting new-client acquisition by 25 %.  
 
 #### 🚗 Origination Team, Online Auto Loans (04/2025 — Present)
-- 🚀 **Project launch & stakeholder management**: Defined “Done” criteria, set milestones, and coordinated 3 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.  
-- 🗺️ **End-to-end process design**: Mapped complex customer journeys across four core systems; created detailed CJM and funnel blueprints that revealed key drop-off points.  
-- 📈 **Strategic planning**: Crafted the six-month roadmap for personalization, cross-sell, and engagement campaigns—aligning product initiatives with projected profitability targets.  
-- 🛠️ **Technical liaison & requirements**: Translated technical constraints into business language; authored functional/non-functional specs and drafted design/SA/dev tasks to streamline implementation.  
-- ⚠️ **Risk & corner-case analysis**: Identified process bottlenecks, corner cases, and regulatory risks; formulated mitigation strategies and integrated them into end-to-end flows.  
-- 📊 **Performance measurement**: Established KPIs, modeled potential uplifts for enhancements, and delivered data-driven recommendations to senior leadership.  
+🚗 Origination Team, Online Auto Loans (04/2025 — Present)
+
+- 🚀 Project launch & stakeholder management: Defined “Done” criteria, set milestones, and coordinated 10 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.
+- 📈 Conversion growth: Doubled in-salon online-loan conversion rates through process redesign, funnel optimization, and close collaboration with sales and partner teams.
+- 💳 Partner settlements integration: Built the end-to-end partner settlement system from scratch, ensuring transparent financial reconciliation and seamless payout automation.
+- 🔍 Funnel analytics & optimization: Conducted deep funnel research on utilization stages; fixed key weak spots, improving the Tale rate by +6 p.p.
+- 🤝 Partner services integration: Integrated third-party partner products (e.g., insurance / DMS / assistance), boosting commission income by ₽ 800 million per year.
+- 🗺️ End-to-end process design: Mapped complex customer journeys across four core systems; created detailed CJM and funnel blueprints that revealed key drop-off points.
+- 🛠️ Technical liaison & requirements: Translated technical constraints into business language; authored functional/non-functional specs and drafted design / SA / dev tasks to streamline implementation.
+- ⚠️ Risk & corner-case analysis: Identified process bottlenecks, corner cases, and regulatory risks; formulated mitigation strategies and integrated them into end-to-end flows.
+- 📊 Performance measurement: Established KPIs, modeled potential uplifts for enhancements, and delivered data-driven recommendations to senior leadership.
 
 
 
