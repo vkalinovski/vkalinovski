@@ -29,12 +29,12 @@
 ### 🏦 T-Bank — Business Analyst (01/2025 — Present)
 
 #### 🤝 Agent Channel Team, T-Investments (01/2025 — 04/2025)
+
 - 💡 **Agent market research**: Developed a financial model for the agent-channel offer and designed the legal interaction structure, projecting a \$200 K revenue uplift per quarter.  
 - 🔗 **Partner network management**: Built and maintained a database of potential partners; automated data ingestion and ETL using Python and SQL, cutting processing time by 50 %.  
 - 🎯 **Marketing campaigns**: Tailored and launched promotions for the agent network, stabilizing lead volume and boosting new-client acquisition by 25 %.  
 
 #### 🚗 Origination Team, Online Auto Loans (04/2025 — Present)
-🚗 Origination Team, Online Auto Loans (04/2025 — Present)
 
 - 🚀 Project launch & stakeholder management: Defined “Done” criteria, set milestones, and coordinated 10 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.
 - 📈 Conversion growth: Doubled in-salon online-loan conversion rates through process redesign, funnel optimization, and close collaboration with sales and partner teams.
