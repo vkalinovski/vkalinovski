@@ -14,8 +14,6 @@
 🎲 **iGaming → 🏦 T-Bank**  
 🎓 HSE Faculty of Computer Science, Data Science & Business Analytics  
 
-> **Independent full-cycle analyst**: from defining the task and collecting data to the ML model and business impact. I build metrics, automate processes, and turn data into understandable solutions.
-
 
 ---
 
