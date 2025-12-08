@@ -47,7 +47,7 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 
 - Built the full product and technical architecture from scratch, including service cost inclusion into the loan body, automated charging, commission processing, revenue recognition, and complete accounting & reconciliation flows.
 
-- Drove transparent cross-functional delivery: aligned 10+ teams (legal, finance, risk, accounting, mobile bank, analytics, engineering), coordinated requirements, secured development resources, and managed the full product lifecycle.
+- Drove transparent cross-functional delivery: aligned 15+ teams (legal, finance, risk, accounting, design, analytics, development and others), coordinated requirements, secured development resources, and managed the full product lifecycle.
 
 - Performed deep business and system analysis, designed CJMs and integration logic, prepared BRDs/FRDs/API specs, and negotiated data-exchange agreements and commission terms with external partners.
 
