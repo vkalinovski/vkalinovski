@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile 😈</h1>
+<h1 align="center">V.Kalinovski CV</h1>
 
 
 <br clear="both">
@@ -85,7 +85,7 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 ###
 
 ---
-# My Projects 🤓
+# Pet Projects
 
 | Project | Tasks | Tools |
 |---------|-------|-------|
@@ -98,7 +98,7 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 
 
 
-## 📫 Contacts
+## Contacts
 
 <a href="https://t.me/vkalinovski" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram"/>
