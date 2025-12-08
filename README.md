@@ -40,7 +40,7 @@
   
 ### Online Auto Loans (08/2024 — Present)
 
-#### **Partner Services Integration Platform** 
+#### *Partner Services Integration Platform* 
 
 Led the end-to-end development of a new platform that enabled the bank to integrate and sell partner services (insurance, driver assistance) directly in the online auto-loan flow — from concept and system design to full-scale launch and monetization.
 
