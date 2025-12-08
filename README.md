@@ -22,18 +22,23 @@
 ## 💼 Experience
 
 ### 🎲 iGaming — Traffic Analyst (02/2024 — 12/2024)
-- **↗ Fraud detection and traffic verification**: developed Python scripts to monitor anomalies and send alerts for suspicious activity, reducing fraudulent traffic by 30%.  
-- **📉 Partner payout recalculation**: organized the payout recalculation process to ensure accuracy and transparency of rewards, increasing payment accuracy from 85% to 100%.  
-- **📊 Power BI dashboards**: set up interactive reports on key metrics, speeding up decision-making by 40%.  
+- Data analysis & research: conducted deep analysis of user traffic, identified behavioral patterns and anomalies, and validated hypotheses using large datasets
+- Anomaly-detection ML model: developed a machine-learning model that generated an anomaly score to automatically flag suspicious behavior. The solution strengthened anti-fraud controls and reduced fraudulent traffic by 35%  
+- Real-time monitoring & alerts: built Python-based monitoring pipelines and alerting systems to detect unusual activity spikes and automatically route suspicious cases for additional manual review.  
+- BI dashboards & reporting: created interactive Power BI dashboards that visualized key performance metrics and improved data-driven decision-making. This partially automated the workflow of affiliate managers, making it more transparent and data-driven, and sped up their operational processes by 30%.
+- Partner payout validation: implemented a transparent payout recalculation and verification process, increasing the accuracy of partner payments and reducing support-related tasks to zero thanks to fully reliable payout calculations
+- Partner collaboration & negotiations: negotiated with major partners to establish profitable collaborations, secured pricing terms favorable for the company, and managed the entire process end-to-end.
 
 ### 🏦 T-Bank — Business Analyst (01/2025 — Present)
 
-#### 🤝 Agent Channel Team, T-Investments (01/2025 — 04/2025)
+#### 🤝 Agent Channel Team, T-Investments (01/2025 — 06/2025)
 
-- 💡 **Agent market research**: Developed a financial model for the agent-channel offer and designed the legal interaction structure, projecting a \$200 K revenue uplift per quarter.  
-- 🔗 **Partner network management**: Built and maintained a database of potential partners; automated data ingestion and ETL using Python and SQL, cutting processing time by 50 %.  
-- 🎯 **Marketing campaigns**: Tailored and launched promotions for the agent network, stabilizing lead volume and boosting new-client acquisition by 25 %.  
-
+- Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making.
+- Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform.
+- AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients.
+- Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework.
+- Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows.
+- 
 #### 🚗 Origination Team, Online Auto Loans (04/2025 — Present)
 
 - 🚀 Project launch & stakeholder management: Defined “Done” criteria, set milestones, and coordinated 10 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.
