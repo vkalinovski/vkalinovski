@@ -21,7 +21,7 @@
 
 ## 💼 Experience
 
-### 🎲 iGaming — Traffic Analyst (02/2024 — 12/2024)
+### 🎲 iGaming — Traffic Analyst (09/2022 — 12/2023)
 - Data analysis & research: conducted deep analysis of user traffic, identified behavioral patterns and anomalies, and validated hypotheses using large datasets
 - Anomaly-detection ML model: developed a machine-learning model that generated an anomaly score to automatically flag suspicious behavior. The solution strengthened anti-fraud controls and reduced fraudulent traffic by 35%  
 - Real-time monitoring & alerts: built Python-based monitoring pipelines and alerting systems to detect unusual activity spikes and automatically route suspicious cases for additional manual review.  
@@ -29,9 +29,9 @@
 - Partner payout validation: implemented a transparent payout recalculation and verification process, increasing the accuracy of partner payments and reducing support-related tasks to zero thanks to fully reliable payout calculations
 - Partner collaboration & negotiations: negotiated with major partners to establish profitable collaborations, secured pricing terms favorable for the company, and managed the entire process end-to-end.
 
-### 🏦 T-Bank — Business Analyst (01/2025 — Present)
+### 🏦 T-Bank — Business Analyst (01/2024 — Present)
 
-#### 🤝 Agent Channel Team, T-Investments (01/2025 — 06/2025)
+#### Agent Channel Team, T-Investments (01/2024 — 08/2024)
 
 - Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making.
 - Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform.
@@ -39,17 +39,22 @@
 - Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework.
 - Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows.
 - 
-#### 🚗 Origination Team, Online Auto Loans (04/2025 — Present)
+#### Online Auto Loans (08/2024 — Present)
 
-- 🚀 Project launch & stakeholder management: Defined “Done” criteria, set milestones, and coordinated 10 + cross-functional teams (including external vendors) to deliver new auto-loan features on schedule.
-- 📈 Conversion growth: Doubled in-salon online-loan conversion rates through process redesign, funnel optimization, and close collaboration with sales and partner teams.
-- 💳 Partner settlements integration: Built the end-to-end partner settlement system from scratch, ensuring transparent financial reconciliation and seamless payout automation.
-- 🔍 Funnel analytics & optimization: Conducted deep funnel research on utilization stages; fixed key weak spots, improving the Tale rate by +6 p.p.
-- 🤝 Partner services integration: Integrated third-party partner products (e.g., insurance / DMS / assistance), boosting commission income by ₽ 800 million per year.
-- 🗺️ End-to-end process design: Mapped complex customer journeys across four core systems; created detailed CJM and funnel blueprints that revealed key drop-off points.
-- 🛠️ Technical liaison & requirements: Translated technical constraints into business language; authored functional/non-functional specs and drafted design / SA / dev tasks to streamline implementation.
-- ⚠️ Risk & corner-case analysis: Identified process bottlenecks, corner cases, and regulatory risks; formulated mitigation strategies and integrated them into end-to-end flows.
-- 📊 Performance measurement: Established KPIs, modeled potential uplifts for enhancements, and delivered data-driven recommendations to senior leadership.
+**Partner Services Integration Platform** 
+
+Led the end-to-end development of a new platform that enabled the bank to integrate and sell partner services (insurance, driver assistance) directly in the online auto-loan flow — from concept and system design to full-scale launch and monetization.
+
+
+- Built the full product and technical architecture from scratch, including service cost inclusion into the loan body, automated charging, commission processing, revenue recognition, and complete accounting & reconciliation flows.
+
+- Drove transparent cross-functional delivery: aligned 10+ teams (legal, finance, risk, accounting, mobile bank, analytics, engineering), coordinated requirements, secured development resources, and managed the full product lifecycle.
+
+- Performed deep business and system analysis, designed CJMs and integration logic, prepared BRDs/FRDs/API specs, and negotiated data-exchange agreements and commission terms with external partners.
+
+- Launched A/B tests, set up analytics for funnel tracking, attach-rate monitoring and partner-economics evaluation; iterated and scaled the platform to multiple partners.
+
+- Monetization impact: reduced client rates via partner commissions (TR +4 p.p.), achieved +23 NPV/year, and enabled a reusable infrastructure that became a foundation for future partner integrations.
 
 
 
