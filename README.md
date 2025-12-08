@@ -38,7 +38,8 @@
 - AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients.
 - Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework.
 - Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows.
-- 
+
+  
 #### Online Auto Loans (08/2024 — Present)
 
 **Partner Services Integration Platform** 
