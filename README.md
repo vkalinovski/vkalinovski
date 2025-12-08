@@ -59,7 +59,7 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -73,14 +73,6 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 
 ---
 
-## 🏆 Strengths
-
-| 🚀 Autonomy | 🤝 Communication | 📈 Business Orientation | 🧩 Strategic Thinking |
-|-------------|-----------------|--------------------------|------------------------|
-| From idea to production without micromanagement | Negotiate with tech and business in the same language | Focus ML solutions on measurable financial impact | Identify growth opportunities, build roadmaps and metrics |
-
----
-###
 
 <p align="center">
   <img width="900"
