@@ -55,23 +55,6 @@ Led the end-to-end development of a new platform that enabled the bank to integr
 
 - Monetization impact: reduced client rates via partner commissions (TR +2.7 p.p.), achieved +$6M NPV/year, and enabled a reusable infrastructure that became a foundation for future partner integrations.
 
-#### *Bringing in-salon auto loans fully online*
-
-Led the transformation of the traditional in-salon auto-loan process — previously fully manual and paper-based — into a complete digital flow inside the bank’s online and mobile channels.
-Designed the full end-to-end product model enabling customers to apply for a specific car directly online, receive scoring decisions, see personalized rates and terms, and digitally sign all documents before visiting the dealership.
-
-- Built the technical architecture to integrate hundreds of dealerships and thousands of car offers, including partner onboarding flows, real-time data exchange, subsidy & special-program eligibility checks, and instant scoring decision logic.
-
-- Defined product requirements, aligned business logic, coordinated legal/finance/risk/compliance/design/analytics/engineering teams, and ensured transparent cross-team delivery across a long, multi-phase project.
-
-- Conducted deep system analysis and worked closely with architects and engineering leads to migrate legacy in-salon workflows into scalable digital services, resolving complex edge cases around scoring, subsidies, dealer commissions, and contract signing.
-
-- Designed and validated the customer journey (CJM), online funnel, mobile-bank screens, and document-signing mechanics; launched iterative A/B tests to refine conversion and operational efficiency.
-
-- Negotiated dealer integrations, ensured process standardization, and built the operational ecosystem to support high scale (hundreds of partner dealerships).
-
-- Business impact: unlocked a fully digital in-salon loan process, dramatically reducing manual operations and enabling +$14M NPV/year through higher conversion, lower operational costs, and improved subsidy utilization.
-
 ---
 
 ## Tech Stack & Tools
