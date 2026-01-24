@@ -48,15 +48,15 @@
 Led the end-to-end development of a new platform that enabled the bank to integrate and sell partner services (insurance, driver assistance) directly in the online auto-loan flow — from concept and system design to full-scale launch and monetization.
 
 
-- Built the full product and technical architecture from scratch, including service cost inclusion into the loan body, automated charging, commission processing, revenue recognition, and complete accounting & reconciliation flows.
+- Built the full product and technical architecture from scratch, including service cost inclusion into the loan body, automated charging, commission processing, revenue recognition, and complete accounting & reconciliation flows
 
-- Drove transparent cross-functional delivery: aligned 15+ teams (legal, finance, risk, accounting, design, analytics, development and others), coordinated requirements, secured development resources, and managed the full product lifecycle.
+- Drove transparent cross-functional delivery: aligned 15+ teams (legal, finance, risk, accounting, design, analytics, development and others), coordinated requirements, secured development resources, and managed the full product lifecycle
 
-- Performed deep business and system analysis, designed CJMs and integration logic, prepared BRDs/FRDs/API specs, and negotiated data-exchange agreements and commission terms with external partners.
+- Performed deep business and system analysis, designed CJMs and integration logic, negotiated data-exchange agreements and commission terms with external partners
 
-- Launched A/B tests, set up analytics for funnel tracking, attach-rate monitoring and partner-economics evaluation; iterated and scaled the platform to multiple partners.
+- Launched A/B tests, set up analytics for funnel tracking, attach-rate monitoring and partner-economics evaluation; iterated and scaled the platform to multiple partners
 
-- Monetization impact: reduced client rates via partner commissions (TR +2.7 p.p.), achieved +$6M NPV/year, and enabled a reusable infrastructure that became a foundation for future partner integrations.
+- Monetization impact: reduced client rates via partner commissions (TR +2.7 p.p.), achieved +$6M NPV/year, and enabled a reusable infrastructure that became a foundation for future partner integrations
 
 ---
 
