@@ -31,9 +31,13 @@
 ### Agent Channel Team, T-Investments (01/2024 — 08/2024)
 
 - Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making
+
 - Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform
+
 - AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients
+
 - Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework
+
 - Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows
 
   
