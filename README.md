@@ -22,20 +22,19 @@
 ## iGaming — Data Scientist (09/2022 — 12/2023)
 - Data analysis & research: conducted deep analysis of user traffic, identified behavioral patterns and anomalies, and validated hypotheses using large datasets
 - Anomaly-detection ML model: developed a machine-learning model that generated an anomaly score to automatically flag suspicious behavior. The solution strengthened anti-fraud controls and reduced fraudulent traffic by 35%  
-- Real-time monitoring & alerts: built Python-based monitoring pipelines and alerting systems to detect unusual activity spikes and automatically route suspicious cases for additional manual review.  
-- BI dashboards & reporting: created interactive Power BI dashboards that visualized key performance metrics and improved data-driven decision-making. This partially automated the workflow of affiliate managers, making it more transparent and data-driven, and sped up their operational processes by 30%.
-- Partner payout validation: implemented a transparent payout recalculation and verification process, increasing the accuracy of partner payments and reducing support-related tasks to zero thanks to fully reliable payout calculations
-- Partner collaboration & negotiations: negotiated with major partners to establish profitable collaborations, secured pricing terms favorable for the company, and managed the entire process end-to-end.
+- Real-time monitoring & alerts: built Python-based monitoring pipelines and alerting systems to detect unusual activity spikes and automatically route suspicious cases for additional manual review  
+- BI: created interactive Power BI dashboards that visualized key performance metrics and improved data-driven decision-making. This partially automated the workflow of affiliate managers, making it more transparent and data-driven, and sped up their operational processes by 30%.
+- Partner collaboration & negotiations: negotiated with major partners to establish profitable collaborations, secured pricing terms favorable for the company, and managed the entire process end-to-end
 
 ## 🏦 T-Bank — Business Analyst (01/2024 — Present)
 
 ### Agent Channel Team, T-Investments (01/2024 — 08/2024)
 
-- Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making.
-- Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform.
-- AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients.
-- Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework.
-- Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows.
+- Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making
+- Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform
+- AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients
+- Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework
+- Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows
 
   
 ### Online Auto Loans (08/2024 — Present)
