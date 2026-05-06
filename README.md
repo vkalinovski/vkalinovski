@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:kalinovskiiiva@gmail.com">kalinovskiiiva@gmail.com</a> ·
-  <a href="https://t.me/vkalinovski">@vkalinovski</a> ·
+  <a href="https://t.me/vkalinovski">@vkalinovski</a> 
 </p>
 
 ---
