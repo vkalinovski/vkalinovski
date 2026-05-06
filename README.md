@@ -1,78 +1,109 @@
-<h1 align="center">V.Kalinovski CV</h1>
+<h1 align="center">Vladimir Kalinovski</h1>
 
+<p align="center">
+  <strong>Business Analyst & Data Scientist</strong><br>
+  FinTech · iGaming · Product Analytics · Machine Learning
+</p>
 
-<br clear="both">
+<p align="center">
+  <a href="mailto:kalinovskiiiva@gmail.com">kalinovskiiiva@gmail.com</a> ·
+  <a href="https://t.me/vkalinovski">@vkalinovski</a> ·
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300">
-</div>
-
-
+---
 
 ## About
 
-**iGaming → FinTech**  
-🎓 HSE Faculty of Computer Science, Data Science & Business Analytics  
+Business Analyst & Data Scientist with experience in FinTech and iGaming. I combine business analysis, product analytics and machine learning to solve applied business problems: partner integrations, funnel analytics, A/B testing, SQL/Python analytics, risk scoring and anomaly monitoring.
 
-
----
-
-# 💼 Experience
-
-## iGaming — Data Scientist (09/2022 — 12/2023)
-- Data analysis & research: conducted deep analysis of user traffic, identified behavioral patterns and anomalies, and validated hypotheses using large datasets
-- Anomaly-detection ML model: developed a machine-learning model that generated an anomaly score to automatically flag suspicious behavior. The solution strengthened anti-fraud controls and reduced fraudulent traffic by 35%  
-- Real-time monitoring & alerts: built Python-based monitoring pipelines and alerting systems to detect unusual activity spikes and automatically route suspicious cases for additional manual review  
-- BI: created interactive Power BI dashboards that visualized key performance metrics and improved data-driven decision-making. This partially automated the workflow of affiliate managers, making it more transparent and data-driven, and sped up their operational processes by 30%.
-- Partner collaboration & negotiations: negotiated with major partners to establish profitable collaborations, secured pricing terms favorable for the company, and managed the entire process end-to-end
-
-## 🏦 T-Bank — Business Analyst (01/2024 — Present)
-
-### Agent Channel Team, T-Investments (01/2024 — 08/2024)
-
-- Product & stakeholder management: built a fully transparent product process for all stakeholders, launched recurring cross-team project syncs, collected feedback, and aligned requirements to accelerate decision-making
-
-- Strategic negotiations with family offices: led end-to-end negotiations with major family offices and secured mutually beneficial terms that enabled them to switch brokers and migrate assets to our platform
-
-- AUM growth: contributed directly to a net $270M AUM increase, driven by successful onboarding of high-value partner clients
-
-- Marketing infrastructure launch: designed and launched the full architecture for running marketing campaigns in the partner channel — built from scratch due to the absence of any prior backend or operational framework
-
-- Large-scale partner acquisition campaign: initiated and executed a major marketing campaign that leveraged a partner’s large user base, significantly boosting conversion and accelerating asset inflows
-
-  
-### Online Auto Loans (08/2024 — Present)
-
-#### *Partner Services Integration Platform* 
-
-Led the end-to-end development of a new platform that enabled the bank to integrate and sell partner services (insurance, driver assistance) directly in the online auto-loan flow — from concept and system design to full-scale launch and monetization.
-
-
-- Built the full product and technical architecture from scratch, including service cost inclusion into the loan body, automated charging, commission processing, revenue recognition, and complete accounting & reconciliation flows
-
-- Drove transparent cross-functional delivery: aligned 15+ teams (legal, finance, risk, accounting, design, analytics, development and others), coordinated requirements, secured development resources, and managed the full product lifecycle
-
-- Performed deep business and system analysis, designed CJMs and integration logic, negotiated data-exchange agreements and commission terms with external partners
-
-- Launched A/B tests, set up analytics for funnel tracking, attach-rate monitoring and partner-economics evaluation; iterated and scaled the platform to multiple partners
-
-- Monetization impact: reduced client rates via partner commissions (TR +2.7 p.p.), achieved +$6M NPV/year, and enabled a reusable infrastructure that became a foundation for future partner integrations
+Key impact:
+- +18.4B RUB AUM from promotional mechanics for investment clients
+- +1,300 monthly loan utilizations from partner-service mechanics in online auto lending
+- +730M RUB annual NPV from rate-reduction mechanics in auto lending
+- 60% reduction in fraud impact through ML-based risk scoring and anomaly monitoring
 
 ---
 
-## Tech Stack & Tools
+## Experience
+
+### T-Bank — Business Analyst, Online Auto Lending
+**Feb 2025 — Present**
+
+- Managed end-to-end integration of external partner services into the online auto-loan flow: business requirements, settlement logic, contract model, UX, backend/frontend logic, payment gateway and UAT; coordinated 25+ teams.
+- Launched a product mechanic that reduced the customer loan rate, increased conversion to the target action and delivered +1,300 monthly loan utilizations and +730M RUB annual NPV.
+- Automated the most labor-intensive stage of the credit process: reduced document-processing SLA by 4x, decreased operating costs by 24M RUB per year and reduced negative customer scenarios based on A/B test results.
+- Moved the offline dealership auto-loan scenario into the online funnel: designed the customer journey, application logic, lead handoff to managers and new website pages.
+- Formalized CJM, BRD/FSD, DoD, acceptance criteria, UAT scenarios and E2E processes for product, engineering and operations teams.
+
+### T-Bank — Business Analyst, T-Investments
+**Sep 2024 — Feb 2025**
+
+- Launched promotional mechanics for financial managers’ clients end-to-end: business logic, budget approval, stakeholder coordination, task management and post-launch analysis; the initiative generated +18.4B RUB AUM.
+- Automated data updates in partner personal accounts via Kafka: enabled data transfer from internal procedures, reduced manual operational workload and lowered the risk of reporting errors.
+
+### iGaming — Traffic Analyst
+**Apr 2023 — Sep 2024**
+
+- Analyzed affiliate traffic quality across partners, sources, GEOs, campaigns, player cohorts and behavioral segments; prepared recommendations on launch, renegotiation or rejection of cooperation.
+- Developed an ensemble of ML models to estimate risky player behavior and calculate calibrated fraud probability.
+- Implemented anomaly monitoring alerts that accelerated detection of suspicious patterns and helped reduce fraud impact by 60%.
+
+---
+
+## Tech Stack & Skills
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]() [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![YOLOv12](https://img.shields.io/badge/YOLOv12-FFC107?style=for-the-badge&logo=ultralytics&logoColor=white)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+### Data & Analytics
 
-[![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]() [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]() [![Feedparser](https://img.shields.io/badge/Feedparser-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() [![Requests](https://img.shields.io/badge/Requests-150458?style=for-the-badge&logo=requests&logoColor=white)]() [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-32A852?style=for-the-badge&logo=beautifulsoup&logoColor=white)]()
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]() [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)]()
+### Python & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logoColor=white)
+
+### Business & Product Analysis
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-1F2937?style=for-the-badge)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-2563EB?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-7C3AED?style=for-the-badge)
+![CJM](https://img.shields.io/badge/CJM-374151?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-374151?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-374151?style=for-the-badge)
+
+### Engineering & Integrations
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+### Domains
+
+![FinTech](https://img.shields.io/badge/FinTech-0F766E?style=for-the-badge)
+![iGaming](https://img.shields.io/badge/iGaming-991B1B?style=for-the-badge)
+![Fraud Analytics](https://img.shields.io/badge/Fraud%20Analytics-B91C1C?style=for-the-badge)
+![Affiliate Traffic](https://img.shields.io/badge/Affiliate%20Traffic-92400E?style=for-the-badge)
 
 </div>
 
 ---
+
+## Education
+
+**HSE University — Faculty of Computer Science**  
+Applied Data Analysis, 2024
+
+**LSE, University of London — Double Degree**  
+Data Science & Business Analytics, 2024
 
 
 <p align="center">
