@@ -14,7 +14,7 @@
 
 ## About
 
-Business Analyst & Data Scientist with experience in FinTech and iGaming. I combine business analysis, product analytics and machine learning to solve applied business problems: partner integrations, funnel analytics, A/B testing, SQL/Python analytics, risk scoring and anomaly monitoring.
+Business Analyst & Data Scientist with experience in FinTech and iGaming. I combine business analysis, product analytics and machine learning to solve applied business problems: partner integrations, funnel analytics, A/B testing, SQL/Python analytics, risk scoring and anomaly monitoring
 
 Key impact:
 - +18.4B RUB AUM from promotional mechanics for investment clients
@@ -29,24 +29,24 @@ Key impact:
 ### T-Bank — Business Analyst, Online Auto Lending
 **Feb 2025 — Present**
 
-- Managed end-to-end integration of external partner services into the online auto-loan flow: business requirements, settlement logic, contract model, UX, backend/frontend logic, payment gateway and UAT; coordinated 25+ teams.
-- Launched a product mechanic that reduced the customer loan rate, increased conversion to the target action and delivered +1,300 monthly loan utilizations and +730M RUB annual NPV.
-- Automated the most labor-intensive stage of the credit process: reduced document-processing SLA by 4x, decreased operating costs by 24M RUB per year and reduced negative customer scenarios based on A/B test results.
-- Moved the offline dealership auto-loan scenario into the online funnel: designed the customer journey, application logic, lead handoff to managers and new website pages.
-- Formalized CJM, BRD/FSD, DoD, acceptance criteria, UAT scenarios and E2E processes for product, engineering and operations teams.
+- Managed end-to-end integration of external partner services into the online auto-loan flow: business requirements, settlement logic, contract model, UX, backend/frontend logic, payment gateway and UAT; coordinated 25+ teams
+- Launched a product mechanic that reduced the customer loan rate, increased conversion to the target action and delivered +1,300 monthly loan utilizations and +730M RUB annual NPV
+- Automated the most labor-intensive stage of the credit process: reduced document-processing SLA by 4x, decreased operating costs by 24M RUB per year and reduced negative customer scenarios based on A/B test results
+- Moved the offline dealership auto-loan scenario into the online funnel: designed the customer journey, application logic, lead handoff to managers and new website pages
+- Formalized CJM, BRD/FSD, DoD, acceptance criteria, UAT scenarios and E2E processes for product, engineering and operations teams
 
 ### T-Bank — Business Analyst, T-Investments
 **Sep 2024 — Feb 2025**
 
-- Launched promotional mechanics for financial managers’ clients end-to-end: business logic, budget approval, stakeholder coordination, task management and post-launch analysis; the initiative generated +18.4B RUB AUM.
-- Automated data updates in partner personal accounts via Kafka: enabled data transfer from internal procedures, reduced manual operational workload and lowered the risk of reporting errors.
+- Launched promotional mechanics for financial managers’ clients end-to-end: business logic, budget approval, stakeholder coordination, task management and post-launch analysis; the initiative generated +18.4B RUB AUM
+- Automated data updates in partner personal accounts via Kafka: enabled data transfer from internal procedures, reduced manual operational workload and lowered the risk of reporting errors
 
 ### iGaming — Traffic Analyst
 **Apr 2023 — Sep 2024**
 
-- Analyzed affiliate traffic quality across partners, sources, GEOs, campaigns, player cohorts and behavioral segments; prepared recommendations on launch, renegotiation or rejection of cooperation.
-- Developed an ensemble of ML models to estimate risky player behavior and calculate calibrated fraud probability.
-- Implemented anomaly monitoring alerts that accelerated detection of suspicious patterns and helped reduce fraud impact by 60%.
+- Analyzed affiliate traffic quality across partners, sources, GEOs, campaigns, player cohorts and behavioral segments; prepared recommendations on launch, renegotiation or rejection of cooperation
+- Developed an ensemble of ML models to estimate risky player behavior and calculate calibrated fraud probability
+- Implemented anomaly monitoring alerts that accelerated detection of suspicious patterns and helped reduce fraud impact by 60%
 
 ---
 
