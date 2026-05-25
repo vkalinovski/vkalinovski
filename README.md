@@ -27,7 +27,7 @@ Key impact:
 ## Experience
 
 ### T-Bank — Business Analyst, Online Auto Lending
-**Feb 2025 — Present**
+**Jul 2025 — Present**
 
 - Managed end-to-end integration of external partner services into the online auto-loan flow: business requirements, settlement logic, contract model, UX, backend/frontend logic, payment gateway and UAT; coordinated 25+ teams
 - Launched a product mechanic that reduced the customer loan rate, increased conversion to the target action and delivered +1,300 monthly loan utilizations and +730M RUB annual NPV
@@ -36,13 +36,13 @@ Key impact:
 - Formalized CJM, BRD/FSD, DoD, acceptance criteria, UAT scenarios and E2E processes for product, engineering and operations teams
 
 ### T-Bank — Business Analyst, T-Investments
-**Sep 2024 — Feb 2025**
+**Dec 2024 — Mar 2025**
 
 - Launched promotional mechanics for financial managers’ clients end-to-end: business logic, budget approval, stakeholder coordination, task management and post-launch analysis; the initiative generated +18.4B RUB AUM
 - Automated data updates in partner personal accounts via Kafka: enabled data transfer from internal procedures, reduced manual operational workload and lowered the risk of reporting errors
 
 ### iGaming — Traffic Analyst
-**Apr 2023 — Sep 2024**
+**Aug 2023 — Nov 2024**
 
 - Analyzed affiliate traffic quality across partners, sources, GEOs, campaigns, player cohorts and behavioral segments; prepared recommendations on launch, renegotiation or rejection of cooperation
 - Developed an ensemble of ML models to estimate risky player behavior and calculate calibrated fraud probability
@@ -100,10 +100,10 @@ Key impact:
 ## Education
 
 **HSE University — Faculty of Computer Science**  
-Applied Data Analysis, 2024
+Applied Data Analysis, 2026
 
 **LSE, University of London — Double Degree**  
-Data Science & Business Analytics, 2024
+Data Science & Business Analytics, 2026
 
 
 <p align="center">
