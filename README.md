@@ -129,14 +129,11 @@ Data Science & Business Analytics
 
 ## Contacts
 
-<a href="https://t.me/vkalinovski" target="_blank">
+<a href="https://t.me/vvk1999" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram"/>
 </a>
 &nbsp;
-<a href="https://wa.me/79055512531" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="28" alt="WhatsApp"/>
-</a>
-&nbsp;
+
 <a href="mailto:kalinovskiiiva@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" alt="Gmail"/>
 </a>
