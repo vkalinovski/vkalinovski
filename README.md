@@ -72,7 +72,6 @@ Currently focused on developing further expertise in **Investment Banking, M&A, 
 
 ### Data & Analytics
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
