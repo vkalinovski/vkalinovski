@@ -1,26 +1,33 @@
+
 <h1 align="center">Vladimir Kalinovski</h1>
 
 <p align="center">
-  <strong>Business Analyst & Data Scientist</strong><br>
-  FinTech · iGaming · Product Analytics · Machine Learning
+  <strong>Business Analyst | Finance & Investments | Data Analytics</strong><br>
+  T-Bank · T-Investments · Financial Products · Commercial Analysis
 </p>
 
 <p align="center">
   <a href="mailto:kalinovskiiiva@gmail.com">kalinovskiiiva@gmail.com</a> ·
-  <a href="https://t.me/vkalinovski">@vkalinovski</a> 
+  <a href="https://t.me/vkalinovski">@vkalinovski</a>
 </p>
 
 ---
 
 ## About
 
-Business Analyst & Data Scientist with experience in FinTech and iGaming. I combine business analysis, product analytics and machine learning to solve applied business problems: partner integrations, funnel analytics, A/B testing, SQL/Python analytics, risk scoring and anomaly monitoring
+Business Analyst with experience across investment products, consumer lending and data analytics at T-Bank.
 
-Key impact:
-- +18.4B RUB AUM from promotional mechanics for investment clients
-- +1,300 monthly loan utilizations from partner-service mechanics in online auto lending
-- +730M RUB annual NPV from rate-reduction mechanics in auto lending
-- 60% reduction in fraud impact through ML-based risk scoring and anomaly monitoring
+My work has focused on evaluating commercial opportunities, developing business cases, launching financial product mechanics and coordinating complex initiatives across product, engineering, legal and operations teams.
+
+### Selected impact
+
+- **+18.4B RUB AUM** generated through promotional mechanics for investment clients
+- **+730M RUB annual NPV** from a rate-reduction mechanic in online auto lending
+- **+1,300 monthly loan utilizations** generated through partner-service mechanics
+- **24M RUB annual operating cost reduction** through credit-process automation
+- Coordinated implementation across **25+ cross-functional teams**
+
+Currently focused on developing further expertise in **Investment Banking, M&A, Valuation, Corporate Finance and Capital Markets**.
 
 ---
 
@@ -28,69 +35,57 @@ Key impact:
 
 ### T-Bank — Business Analyst, Online Auto Lending
 
-- Managed end-to-end integration of external partner services into the online auto-loan flow: business requirements, settlement logic, contract model, UX, backend/frontend logic, payment gateway and UAT; coordinated 25+ teams
-- Launched a product mechanic that reduced the customer loan rate, increased conversion to the target action and delivered +1,300 monthly loan utilizations and +730M RUB annual NPV
-- Automated the most labor-intensive stage of the credit process: reduced document-processing SLA by 4x, decreased operating costs by 24M RUB per year and reduced negative customer scenarios based on A/B test results
-- Moved the offline dealership auto-loan scenario into the online funnel: designed the customer journey, application logic, lead handoff to managers and new website pages
-- Formalized CJM, BRD/FSD, DoD, acceptance criteria, UAT scenarios and E2E processes for product, engineering and operations teams
+- Developed and launched a rate-reduction mechanic for auto-loan clients, generating **+1,300 monthly loan utilizations** and **+730M RUB annual NPV**
+- Managed end-to-end integration of external partner services into the online lending process, covering business requirements, settlement logic, contractual model, customer journey, payment infrastructure and implementation
+- Coordinated delivery across **25+ product, engineering, legal, operations and business teams**
+- Automated the most labor-intensive stage of the credit process, reducing document-processing SLA by **4x** and operating costs by **24M RUB annually**
+- Used A/B testing and customer behavior analysis to evaluate product changes and reduce negative customer scenarios
+- Transformed an offline dealership lending process into a digital customer journey, designing the application flow, lead routing and supporting website functionality
+- Prepared business requirements, acceptance criteria, UAT scenarios and end-to-end process documentation for new product launches
 
 ### T-Bank — Business Analyst, T-Investments
 
-- Launched promotional mechanics for financial managers’ clients end-to-end: business logic, budget approval, stakeholder coordination, task management and post-launch analysis; the initiative generated +18.4B RUB AUM
-- Automated data updates in partner personal accounts via Kafka: enabled data transfer from internal procedures, reduced manual operational workload and lowered the risk of reporting errors
-
-### iGaming — Traffic Analyst
-
-- Analyzed affiliate traffic quality across partners, sources, GEOs, campaigns, player cohorts and behavioral segments; prepared recommendations on launch, renegotiation or rejection of cooperation
-- Developed an ensemble of ML models to estimate risky player behavior and calculate calibrated fraud probability
-- Implemented anomaly monitoring alerts that accelerated detection of suspicious patterns and helped reduce fraud impact by 60%
+- Developed and launched promotional mechanics for financial managers' clients that generated **+18.4B RUB in AUM**
+- Worked across business logic, budget approval, stakeholder coordination, implementation and post-launch performance analysis
+- Coordinated business and technical stakeholders throughout the full delivery cycle
+- Automated data updates in partner personal accounts through Kafka-based integrations, reducing manual operations and reporting risk
 
 ---
 
-## Tech Stack & Skills
+## Core Skills
 
-<div align="center">
+### Finance & Commercial Analysis
+
+![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-1F2937?style=for-the-badge)
+![Business Case](https://img.shields.io/badge/Business%20Case-374151?style=for-the-badge)
+![Commercial Analysis](https://img.shields.io/badge/Commercial%20Analysis-374151?style=for-the-badge)
+![Investment Products](https://img.shields.io/badge/Investment%20Products-0F766E?style=for-the-badge)
+![Consumer Lending](https://img.shields.io/badge/Consumer%20Lending-0F766E?style=for-the-badge)
+
+### Business Analysis
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-1F2937?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-374151?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-374151?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-374151?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-374151?style=for-the-badge)
 
 ### Data & Analytics
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Python & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logoColor=white)
-
-### Business & Product Analysis
-
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-1F2937?style=for-the-badge)
-![Product Analytics](https://img.shields.io/badge/Product%20Analytics-2563EB?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-7C3AED?style=for-the-badge)
-![CJM](https://img.shields.io/badge/CJM-374151?style=for-the-badge)
-![BPMN](https://img.shields.io/badge/BPMN-374151?style=for-the-badge)
-![UAT](https://img.shields.io/badge/UAT-374151?style=for-the-badge)
-
-### Engineering & Integrations
+### Systems & Delivery
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-### Domains
-
-![FinTech](https://img.shields.io/badge/FinTech-0F766E?style=for-the-badge)
-![iGaming](https://img.shields.io/badge/iGaming-991B1B?style=for-the-badge)
-![Fraud Analytics](https://img.shields.io/badge/Fraud%20Analytics-B91C1C?style=for-the-badge)
-![Affiliate Traffic](https://img.shields.io/badge/Affiliate%20Traffic-92400E?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -102,38 +97,51 @@ Applied Data Analysis
 **LSE, University of London — Double Degree**  
 Data Science & Business Analytics
 
+---
 
-<p align="center">
-  <img width="900"
-       src="https://raw.githubusercontent.com/vkalinovski/Portfolio/main/snake/github-snake.svg"
-       alt="snake"/>
-</p>
+## Selected Projects
 
+### [RSS / Media Monitor](https://github.com/vkalinovski/RSS_Project)
 
+Python-based system for monitoring news feeds, filtering articles by selected topics and producing structured daily summaries.
 
-###
+`Python` · `Pandas` · `Requests` · `BeautifulSoup` · `RSS`
 
 ---
-# Pet Projects
 
-| Project | Tasks | Tools |
-|---------|-------|-------|
-| [Civil Society Research](https://github.com/underplintus/Portfolio/blob/main/NKO) | Exploratory data analysis, clustering, trend and anomaly detection, prediction of missing survey responses | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=flat-square&logo=catboost) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy) ![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=flat-square&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black) |
-| [Reducing Customer Activity](https://github.com/underplintus/Portfolio/blob/main/web_shop) | Building models to predict decrease in user activity | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy) ![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=flat-square&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black) |
-| [Taxi Demand Forecasting](https://github.com/underplintus/Portfolio/blob/main/taxi) | Forecasting the number of taxi orders for the next hour based on time series | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-%232671E5.svg?style=flat-square&logo=catboost) ![LightGBM](https://img.shields.io/badge/LightGBM-%2364B02E.svg?style=flat-square&logo=lightgbm) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy) ![Seaborn](https://img.shields.io/badge/Seaborn-%230095D5.svg?style=flat-square&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black) |
-| [RSS / Media-Monitor](https://github.com/vkalinovski/RSS_Project/blob/main/README.md) | Monitoring news RSS feeds, filtering by keywords, and generating daily summaries | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![feedparser](https://img.shields.io/badge/feedparser-%23FFA500.svg?style=flat-square&logo=rss&logoColor=white) ![Requests](https://img.shields.io/badge/requests-%23150458.svg?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2332A852.svg?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas) |
-| [Basketball_foul_detection](https://github.com/vkalinovski/-Basketball_foul_detection/blob/main/README.md) | Detecting fouls and other violations in basketball using computer vision and player pose analysis | ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) ![YOLOv12](https://img.shields.io/badge/YOLOv12-FFC107?style=flat-square&logo=ultralytics&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black) |
-| [Affiliate-Labeling](https://github.com/vkalinovski/Affiliate-Labeling) | Evaluating ROI of affiliate traffic, labeling affiliates as efficient or inefficient based on 1-month LTV predictions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%2322670E.svg?style=flat-square&logo=xgboost&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black) |
+### [Civil Society Research](https://github.com/underplintus/Portfolio/blob/main/NKO)
 
+Exploratory research project covering data analysis, segmentation, trend identification and anomaly detection across survey data.
 
+`Python` · `Pandas` · `scikit-learn` · `Data Analysis`
 
-## Contacts
+---
 
-<a href="https://t.me/vvk1999" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram"/>
-</a>
-&nbsp;
+### [Taxi Demand Forecasting](https://github.com/underplintus/Portfolio/blob/main/taxi)
 
-<a href="mailto:kalinovskiiiva@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" alt="Gmail"/>
-</a>
+Time-series analysis and forecasting project focused on predicting short-term demand using historical operational data.
+
+`Python` · `Pandas` · `scikit-learn` · `Time Series`
+
+---
+
+## Career Focus
+
+**Investment Banking · M&A · Valuation · Corporate Finance · Capital Markets**
+
+I am particularly interested in applying analytical, financial and transaction-oriented problem solving to advisory and capital markets work.
+
+---
+
+## Contact
+
+<p>
+  <a href="mailto:kalinovskiiiva@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" alt="Email"/>
+  </a>
+
+  <a href="https://t.me/vkalinovski">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram"/>
+  </a>
+</p>
+
