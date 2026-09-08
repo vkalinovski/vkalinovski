@@ -100,6 +100,22 @@ Data Science & Business Analytics
 
 ## Selected Projects
 
+### [Salesforce / GitLab — Strategic Combination & M&A Analysis](https://github.com/vkalinovski/Salesforce-Gitlab-MA)
+
+End-to-end M&A analysis evaluating a potential acquisition of GitLab by Salesforce, including standalone forecasts, valuation, transaction structure, purchase accounting, synergies, pro forma financials and EPS accretion / dilution.
+
+`M&A` · `Financial Modeling` · `Valuation` · `DCF` · `Accretion / Dilution`
+
+---
+
+### [Balanced Quant Agents](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+
+Quantitative research project focused on systematic investment analysis and model-driven portfolio decision-making.
+
+`Quantitative Finance` · `Portfolio Analysis` · `Python` · `Jupyter Notebook`
+
+---
+
 ### [RSS / Media Monitor](https://github.com/vkalinovski/RSS_Project)
 
 Python-based system for monitoring news feeds, filtering articles by selected topics and producing structured daily summaries.
