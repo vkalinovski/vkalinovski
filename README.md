@@ -100,7 +100,7 @@ Data Science & Business Analytics
 
 ## Selected Projects
 
-### [Salesforce / GitLab — Strategic Combination & M&A Analysis](https://github.com/vkalinovski/Salesforce-Gitlab-MA)
+### [Salesforce / GitLab M&A Analysis](https://github.com/vkalinovski/Salesforce-Gitlab-MA)
 
 End-to-end M&A analysis evaluating a potential acquisition of GitLab by Salesforce, including standalone forecasts, valuation, transaction structure, purchase accounting, synergies, pro forma financials and EPS accretion / dilution.
 
