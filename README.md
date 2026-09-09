@@ -108,7 +108,7 @@ End-to-end M&A analysis evaluating a potential acquisition of GitLab by Salesfor
 
 ---
 
-### [Balanced Quant Agents](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+### [Balanced Quant Agents](https://github.com/vkalinovski/Balanced_Quant_Agents)
 
 Quantitative research project focused on systematic investment analysis and model-driven portfolio decision-making.
 
